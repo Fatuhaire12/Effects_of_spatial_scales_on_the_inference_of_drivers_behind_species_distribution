@@ -7,4 +7,7 @@ and carrying capacity as the key drivers of species distribution in a landscape.
 Each factor here has its own spatial autocorrelation and species’ responses to these factors vary as the spatial scales increase from local to regional to global scales. I represent these factors as two fractal landscapes and implement an
 integro difference equation (IDE) on them. The results obtained tell us how the population density is dependant on the growth rate and carrying capacity.
 
-Keywords: Spatial scale; fractal landscape; spatial autocorrelation; integrodifference equations; hierarchical partitioning.
+Keywords: Spatial scale; fractal landscape; spatial autocorrelation; integrodifference equations; hierarchical partitioning
+
+.
+![Fractals](https://github.com/Fatuhaire12/Effects_of_spatial_scales_on_the_inference_of_drivers_behind_species_distribution/assets/19301312/f9b9e452-c520-496d-b113-3453e6d5b4cf)
