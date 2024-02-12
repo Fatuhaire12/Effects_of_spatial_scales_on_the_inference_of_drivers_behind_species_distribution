@@ -1,4 +1,4 @@
-# Effects_of_spatial_scales_on_the_inference_of_drivers_behind_species_distribution
+# Spatial_scales_on_the_inference_of_drivers_behind_species_distribution
 The factors that determine species distributions across landscapes have for long served keen interest to conservation biology. Abiotic factors have been the major determinants of species distribution at larger scales whereas biotic
 factors have been considered to be at small scales. The effect of a factor at one scale cannot be extrapolated to other scales. So to understand these effects, we need to make comparisons at multiple scales. Although there has been
 several progressive research studies done on the effects of spatial scales on species distributions, empirical studies involving varying more than one factor have been lacking. I develop a model that uses two factors of growth rate
